@@ -1,5 +1,9 @@
 # v0 Dark Mode Chrome Extension
 
+![Screenshot from 2024-09-09 23-42-19](https://github.com/user-attachments/assets/aa879782-257c-46c6-a2a9-5347dc997e07)
+
+![Screenshot from 2024-09-09 23-44-10](https://github.com/user-attachments/assets/90755bd5-c660-49ad-bc89-1ec1498f455f)
+
 ## Description
 
 v0 Dark Mode is a Chrome extension designed to provide a seamless dark mode experience for the v0.dev/chat interface. It allows users to switch between light, dark, and system-based color schemes, enhancing readability and reducing eye strain during nighttime usage.
