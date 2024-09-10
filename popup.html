@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      width: 200px;
+      padding: 10px;
+      font-family: Arial, sans-serif;
+      background-color: #1a1a1a;
+      color: #e0e0e0;
+    }
+    h3 {
+      margin-top: 0;
+      margin-bottom: 15px;
+    }
+    select {
+      width: 100%;
+      margin-top: 10px;
+      background-color: #333;
+      color: #e0e0e0;
+      border: 1px solid #555;
+      padding: 5px;
+      border-radius: 4px;
+    }
+    select:focus {
+      outline: none;
+      border-color: #3b82f6;
+    }
+  </style>
+</head>
+<body>
+  <h3>v0 Color Mode</h3>
+  <select id="colorModeSelect">
+    <option value="system">System</option>
+    <option value="light">Light</option>
+    <option value="dark">Dark</option>
+  </select>
+  <script src="popup.js"></script>
+</body>
+</html>
