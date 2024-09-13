@@ -1,5 +1,7 @@
 # v0 Dark Mode Chrome Extension
 
+# NOT NEEDED ANYMORE , NEW V0 (FINALLY) HAVE THIS
+
 ![Screenshot from 2024-09-09 23-42-19](https://github.com/user-attachments/assets/aa879782-257c-46c6-a2a9-5347dc997e07)
 
 ![Screenshot from 2024-09-09 23-44-10](https://github.com/user-attachments/assets/90755bd5-c660-49ad-bc89-1ec1498f455f)
